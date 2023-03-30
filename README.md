@@ -1,6 +1,6 @@
 # demo-repo
 
-Some descriptioncd ..
+Some description
 
 ##Subheader
 
